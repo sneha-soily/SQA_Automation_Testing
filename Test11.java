@@ -42,12 +42,12 @@ public class Test11 {
     	}
     	
     	
-    	//Second method
+    	//Second method for title match
     	
-    	/*String ExpectedURL = "https://www.saucedemo.com/";
+    	String ExpectedURL = "https://www.saucedemo.com/";
     	String ActualURL = driver.getCurrentUrl();
     	
-    	Assert.assertEquals(ActualURL, ExpectedURL, "Condition True");*/
+    	Assert.assertEquals(ActualURL, ExpectedURL, "Condition True");
     	
     	
     	//login automation
